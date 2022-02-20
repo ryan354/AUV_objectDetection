@@ -35,7 +35,7 @@ cd ardupilot/
 ./Tools/autotest/sim_vehicle.py -v ArduSub --console
 ```
 <p align="center">
-  <img src="doc/1.png">
+  <img src="doc/1.PNG">
 </p>
 
 ### Running ArduSub SITL with Gazebo
@@ -122,7 +122,7 @@ roslaunch bluerov_ros_playground gazebo_sitl.launch
 ```
 
 <p align="center">
-  <img src="doc/2.png">
+  <img src="doc/2.PNG">
 </p>
 
 
