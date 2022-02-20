@@ -131,7 +131,7 @@ roslaunch bluerov_ros_playground gazebo_sitl.launch
 ##Finally using new terminal run ObjectTracking_mavros.py
 
 <p align="center">
-  <img src="doc/2.PNG">
+  <img src="doc/5.PNG">
 </p>
 
 ## Troubleshooting
