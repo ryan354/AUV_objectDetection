@@ -104,6 +104,7 @@ source devel/setup.sh
 
 ### Test it
 Open 3 terminal and open QGrouncontrol
+
 1st terminal
 ```bash
 cd ardupilot
