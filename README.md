@@ -14,7 +14,7 @@ A package to simulate underwater vehicles.
 ### Requirements ###
 - git
 - [ros-\*-desktop-full](http://wiki.ros.org/ROS/Installation)
-  - kinetic or newer
+  - melodic or newer
 - [mavros](http://wiki.ros.org/mavros)
 - python
   - opencv_python
