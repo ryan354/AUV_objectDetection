@@ -1,5 +1,5 @@
 # AUV_objectDetection
-Object tracking for mavros-based underwater robot using Hough transform 
+Object tracking for mavros-based underwater robot using Hough Transform 
 ===================
 
 A package to simulate underwater vehicles.
