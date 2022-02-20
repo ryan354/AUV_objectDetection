@@ -20,7 +20,7 @@ A package to simulate underwater vehicles.
   - melodic or newer
 - [mavros](http://wiki.ros.org/mavros)
 - python
-  - opencv_python
+  - opencv_python,opencvgstreamer
   - numpy
   - [gi, gobject](https://wiki.ubuntu.com/Novacut/GStreamer1.0)
   - PyYAML
@@ -128,13 +128,20 @@ roslaunch bluerov_ros_playground gazebo_sitl.launch
   <img src="doc/2.PNG">
 </p>
 
+##Finally using new terminal run ObjectTracking_mavros.py
+
+<p align="center">
+  <img src="doc/2.PNG">
+</p>
 
 ## Troubleshooting
 
 -If you are running gazebo7, probably you'll find a [bug in the GAZEBO_PLUGIN_PATH env variable](https://github.com/ros-infrastructure/reprepro-updater/issues/41).
 To solve that issue, it's necessary to move all plugins to the correct path.
+
 -Make sure to input correct IP address for SITL
 
+-Make sure there is camera connected to your pc
 
 ## References
 
