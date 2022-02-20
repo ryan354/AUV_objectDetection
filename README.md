@@ -7,6 +7,9 @@ A package to simulate underwater vehicles.
 <p align="center">
   <img src="doc/0.png">
 </p>
+<p align="center">
+  <img src="doc/3.png">
+</p>
 
 
 ## Getting Started
