@@ -135,7 +135,9 @@ To solve that issue, it's necessary to move all plugins to the correct path.
 
 ## References
 
-[freefloating_gazebo](https://github.com/freefloating-gazebo/freefloating_gazebo)
-[ardupilot_gazebo](https://github.com/patrickelectric/ardupilot_gazeboo)
-[Blurov-gazebo](https://github.com/patrickelectric/bluerov_ros_playground/blob/master/README.md)
-[freefloating_gazebo](https://github.com/freefloating-gazebo/freefloating_gazebo)
+1.[freefloating_gazebo](https://github.com/freefloating-gazebo/freefloating_gazebo)
+
+2.[ardupilot_gazebo](https://github.com/patrickelectric/ardupilot_gazeboo)
+
+3.[Blurov-gazebo](https://github.com/patrickelectric/bluerov_ros_playground/blob/master/README.md)
+
