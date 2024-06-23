@@ -3,7 +3,9 @@ Object tracking for mavros-based underwater robot using Hough Transform
 ===================
 
 A package to simulate underwater vehicles.
-
+<p align="center">
+  <img src="doc/NewModel.png">
+</p>
 <p align="center">
   <img src="doc/0.png">
 </p>
